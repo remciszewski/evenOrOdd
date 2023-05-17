@@ -1,0 +1,15 @@
+F:\C#\Exercises\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.exe
+F:\C#\Exercises\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.deps.json
+F:\C#\Exercises\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.runtimeconfig.json
+F:\C#\Exercises\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.dll
+F:\C#\Exercises\evenOrOdd\evenOrOdd\bin\Debug\net6.0\evenOrOdd.pdb
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.csproj.AssemblyReference.cache
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.AssemblyInfoInputs.cache
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.AssemblyInfo.cs
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.csproj.CoreCompileInputs.cache
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.dll
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\refint\evenOrOdd.dll
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.pdb
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\evenOrOdd.genruntimeconfig.cache
+F:\C#\Exercises\evenOrOdd\evenOrOdd\obj\Debug\net6.0\ref\evenOrOdd.dll
